@@ -219,6 +219,5 @@ where, ![alt text](./images/e1.png)= Young's modulus of the material
 
 **6. References**:
 
-Dessign of Machine  Elements - V.B.Bhandari<br>
-Dessign of Machine  Elements I - J.B.K. Das, P.L.. Srinivasa Murthy
+Prof. J. B. K. Das and  P. L. Srinivasa Murthy(2013),Design of Machine Elements I, Sapna Book House.
 https://nptel.ac.in/courses/112/105/112105125/.
